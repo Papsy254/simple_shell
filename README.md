@@ -1,8 +1,8 @@
 # simple_shel
- A simple UNIX command interpreter making as a final project of the low-level programming and algorithm quarter at ALX school of software engineering
+ A simple UNIX command interpreter making as a final project of the low-level programming and algorithm quarter at ALX School of Software Engineering
 
 ## Overview
-Sodashy is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
+Sodashy is a sh-compatible command language interpreter that executes commands read from the standard input or a file.
 
 ## Invocation
 Usage: Sodash Sodash is started with the standard input connected to the terminal. To start, compile all .c located in this repository by using this command:
@@ -197,4 +197,4 @@ $
 ## Authors & Copyrights
 Mitchelle Wairuri
 ## More information
-Sodash is a simple shell unix command interpreter that is part of the alx low level programming module at Alx School and is intended to emulate the basics sh shell. All the information given in this README is based on the sodash and bash man (1) pages.
+Sodash is a simple shell unix command interpreter that is part of the Alx low-level programming module at Alx School and is intended to emulate the basics of shell. All the information given in this README is based on the sodash and bash man (1) pages.
